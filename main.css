@@ -1,0 +1,39 @@
+table {
+	background-color: white;
+	color: black;
+}
+.contaier{
+	background-color: lightgrey;
+	text-align: center;
+	padding-top: 10px;
+}
+.picture{
+	background-color: white;
+	width: 90%;
+	margin-left: 5%;
+
+}
+
+#paragrafi{
+	padding-bottom: 15px;
+}
+
+.text-center{
+	text-align: center;
+}
+ul li{
+	margin-left: 28%;
+	margin-right: 28%;
+	text-align: justify;
+	text-justify: inter-word;
+}
+li{
+	margin: 16px 0;
+}
+#p1{
+	padding-bottom: 10px;
+}
+#hContainer{
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
